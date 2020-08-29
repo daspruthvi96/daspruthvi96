@@ -2,7 +2,7 @@
 
 I like making experiences for players than to solve problems of a computer. That makes me a designer more than a programmer.
 
-I mainly work with Unity (C#) and Godot (GDScript).
+I mainly work with Unity (C#), but I'm thinking of moving to Godot (GDScript).
 <!--
 **daspruthvi96/daspruthvi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
