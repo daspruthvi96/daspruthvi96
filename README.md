@@ -1,19 +1,16 @@
-### Rookie writer. Game designer.
+# Professional Writer | Game Designer
 
-I like making experiences for players than to solve problems of a computer. That makes me a designer more than a programmer.
+I love writing for and designing games.
 
-I mainly work with Unity (C#), but I'm thinking of moving to Godot (GDScript).
-<!--
-**daspruthvi96/daspruthvi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming? Pff.
 
-Here are some ideas to get you started:
+## What am I playing these days?
+🕹️ _The Talos Principle (PC)_
+  
+🕹️ _Sokoban Touch (Android)_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🕹️ _Plain ol' chess_
+
+## I'd love to make games with you. HMU!
+
+🎮 ITCH.IO: daspruthvi96.itch.io | 💬 DISCORD: daspruthvi96
